@@ -1,0 +1,6 @@
+OLED.init(128, 64)
+OLED.writeStringNewLine("ChuggaChugaChuChu")
+OLED.writeStringNewLine("You missed the train...")
+OLED.writeStringNewLine("Guess you're stuck at school.")
+OLED.writeStringNewLine("We should get another snow day...")
+OLED.writeStringNewLine("Missed your ride over the rainbow")
